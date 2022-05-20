@@ -1,0 +1,7 @@
+node_modules/
+.Trashes/
+ignore/
+
+.DS_Store
+.vscode
+.env
